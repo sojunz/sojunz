@@ -20,6 +20,10 @@ Welcome to my GitHub profile! I’m passionate about web design and development,
  🌍 Find me online:
 -GitHub: [Aroha Project](https://github.com/sojunz/aroha.git)
 
+![Static Badge](https://img.shields.io/badge/html-red) 
+![Static Badge](https://img.shields.io/badge/CSS-blue) 
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+
 
 Thanks for visiting! 😊
 
