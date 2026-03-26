@@ -50,9 +50,3 @@ A collection of small utilities I plan to build:
 - Explore cross‑cultural UX (Korea ↔ Japan)  
 - Publish at least one complete mobile app this year  
 
-If you want, I can also:
-- Format this into a **GitHub profile README template**  
-- Add icons, badges, or a more playful tone  
-- Rewrite it in a more professional or more casual style  
-
-Just tell me the vibe you want.
