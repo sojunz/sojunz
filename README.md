@@ -1,26 +1,58 @@
+👋 Hi, I’m So Hyung Chang
+I’m a developer who enjoys building practical, lightweight solutions that solve real problems. My work focuses on clean architecture, modular JavaScript, and user‑centered product ideas inspired by everyday life.
+
+🧩 What I’ve Built
 OTP Authentication System
+A simple and modular one-time passcode system built with JavaScript ES modules.  
+Key features include:
+- Time‑based passcode validation  
+- Automatic expiration updates  
+- Efficient storage using `Map`  
+- Clear separation of logic across modules  
 
-This JavaScript program implements a simple one-time passcode (OTP) authentication system for Kiwi Sports Apparel. It allows temporary passcodes to be added and validated within a specified time window.
+This project helped me strengthen:
+- Class design  
+- Conditional logic  
+- Modular architecture  
+- Real‑world authentication patterns  
 
-Features
+🚀 **What I’m Working On Next**
+**1. Single‑Person Household Food App (KR/JP Focus)**
+A mobile app designed for people living alone who want easy access to Korean and Japanese meals.  
+Planned features:
+- Smart meal recommendations based on budget, mood, and cooking skill  
+- Grocery lists optimized for 1‑person portions  
+- Simple recipes with step‑by‑step timers  
+- Local restaurant suggestions for quick meals  
+- “Cook or Buy?” decision helper  
 
-- Add passcodes with custom expiration durations
-- Automatically overwrite expiration time if passcode is still valid
-- Validate passcodes based on current time
-- Lightweight and modular design using ES modules
+This project blends:
+- UX for solo living  
+- Cultural food insights  
+- Practical daily‑life problem solving  
 
-Files
+**2. Personal Dev Toolkit**
+A collection of small utilities I plan to build:
+- Time‑based reminders  
+- Lightweight data‑tracking modules  
+- Reusable UI components for future apps  
 
-- `OTPManager.js`: Defines the `OTPManager` class with `addPasscode()` and `isValid()` methods
-- `main.js`: Demonstrates usage of the OTPManager class with sample passcode logic
-- `README.md`: Project overview and summary
+🛠️ **Tech Stack & Interests**
+- **Languages:** JavaScript, TypeScript (learning), Python (exploring)  
+- **Frontend:** React, HTML/CSS  
+- **Backend:** Node.js, Express  
+- **Tools:** GitHub, VS Code, Figma  
+- **Interests:** Food-tech, productivity tools, minimalistic app design  
 
-## How It Works
+🎯 **My Goals**
+- Build apps that genuinely help everyday life  
+- Improve my full‑stack skills through real projects  
+- Explore cross‑cultural UX (Korea ↔ Japan)  
+- Publish at least one complete mobile app this year  
 
-Passcodes are stored in a `Map` with their expiration timestamps. When a passcode is added, the system checks if it already exists and is still valid. If so, the expiration time is updated. Otherwise, it is treated as a new passcode. The `isValid()` method checks whether a passcode is still within its valid time window.
+If you want, I can also:
+- Format this into a **GitHub profile README template**  
+- Add icons, badges, or a more playful tone  
+- Rewrite it in a more professional or more casual style  
 
----
-
-📚 Summary (100 words)
-
-This program creates a secure one-time passcode system for Kiwi Sports Apparel’s login feature. It uses a class called `OTPManager` to store passcodes and their expiration times. The `addPasscode()` method adds a passcode and sets its validity duration, returning `true` if the passcode already exists and is still valid, or `false` if it’s new or expired. The `isValid()` method checks whether a passcode is still valid. The system uses JavaScript ES modules and `Map` for efficient passcode management. This implementation demonstrates core concepts from Module 1 and 2, including classes, methods, conditional logic, and modular code structure.
+Just tell me the vibe you want.
