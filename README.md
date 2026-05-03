@@ -1,52 +1,36 @@
-👋 Hi, I’m So Hyung Chang
-I’m a developer who enjoys building practical, lightweight solutions that solve real problems. My work focuses on clean architecture, modular JavaScript, and user‑centered product ideas inspired by everyday life.
+# Hi, I'm So Hyung 👋
 
-🧩 What I’ve Built
-OTP Authentication System
-A simple and modular one-time passcode system built with JavaScript ES modules.  
-Key features include:
-- Time‑based passcode validation  
-- Automatic expiration updates  
-- Efficient storage using `Map`  
-- Clear separation of logic across modules  
+Full-stack developer based in New Zealand 🇳🇿  
+Currently learning and building with the MERN stack and Next.js.
 
-This project helped me strengthen:
-- Class design  
-- Conditional logic  
-- Modular architecture  
-- Real‑world authentication patterns  
+## 🛠 Tech Stack
 
-🚀 **What I’m Working On Next**
-**1. Single‑Person Household Food App (KR/JP Focus)**
-A mobile app designed for people living alone who want easy access to Korean and Japanese meals.  
-Planned features:
-- Smart meal recommendations based on budget, mood, and cooking skill  
-- Grocery lists optimized for 1‑person portions  
-- Simple recipes with step‑by‑step timers  
-- Local restaurant suggestions for quick meals  
-- “Cook or Buy?” decision helper  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-This project blends:
-- UX for solo living  
-- Cultural food insights  
-- Practical daily‑life problem solving  
+## 🚀 Projects
 
-**2. Personal Dev Toolkit**
-A collection of small utilities I plan to build:
-- Time‑based reminders  
-- Lightweight data‑tracking modules  
-- Reusable UI components for future apps  
+### [ForgetMeNot](https://forgetmenot-fixed.vercel.app)
+A focus & task management app with AI-driven prioritization using the Anthropic API.  
+`React` `Node.js` `Express` `MongoDB` `Anthropic API`
 
-🛠️ **Tech Stack & Interests**
-- **Languages:** JavaScript, TypeScript (learning), Python (exploring)  
-- **Frontend:** React, HTML/CSS  
-- **Backend:** Node.js, Express  
-- **Tools:** GitHub, VS Code, Figma  
-- **Interests:** Food-tech, productivity tools, minimalistic app design  
+### [HARU Todo App](https://todo-app-rho-five-49.vercel.app)
+A clean todo app built while learning full-stack development.  
+`React` `Node.js` `Express` `MongoDB`
 
-🎯 **My Goals**
-- Build apps that genuinely help everyday life  
-- Improve my full‑stack skills through real projects  
-- Explore cross‑cultural UX (Korea ↔ Japan)  
-- Publish at least one complete mobile app this year  
+### [Portfolio](https://my-portfolio-eight-gamma-68.vercel.app)
+Personal portfolio site built with Next.js and Tailwind CSS.  
+`Next.js` `TypeScript` `Tailwind CSS`
+
+## 📫 Contact
+
+- 📧 sinchonblues@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sohyung-chang-35625a292/)
+- 🌐 [Portfolio](https://my-portfolio-eight-gamma-68.vercel.app)
 
